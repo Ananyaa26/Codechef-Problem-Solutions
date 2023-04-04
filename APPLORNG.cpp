@@ -3,7 +3,6 @@ using namespace std;
 
 int main() {
 	// your code goes here
-
 	    int X,A,B;
 	    cin>>X;
 	    cin>>A>>B;
