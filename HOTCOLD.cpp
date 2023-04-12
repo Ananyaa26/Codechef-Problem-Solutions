@@ -17,5 +17,5 @@ int main() {
 	    T--;
 	}
 	return 0;
-	return 0;
+
 }
