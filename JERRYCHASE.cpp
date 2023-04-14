@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-	// your code goes hereint T;
 	int T;
 	cin>>T;
 	while(T>0){
