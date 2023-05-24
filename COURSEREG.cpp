@@ -8,7 +8,6 @@ int main() {
 	while(T>0){
 	    int N,M,K;
 	    cin>>N>>M>>K;
- 
 	    if(M-K>=N){
 	        cout<<"YES"<<endl;
 	    }else{
